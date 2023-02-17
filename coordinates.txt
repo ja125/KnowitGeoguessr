@@ -1,0 +1,10 @@
+bord.jpg	157	624
+cykel.jpg	226	628
+ericsson.jpg	66	630
+kaffe.jpg	366	161
+locker.jpg	69	540
+piggy.jpg	387	294
+tavlor.jpg	295	118
+ric.jpg	286	614
+tavlorskrivare.jpg	324	248
+trashcan.jpeg	294	91

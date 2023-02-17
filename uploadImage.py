@@ -19,3 +19,4 @@ with open("coordinates" + ".txt", "a") as f:
     f.write(str(y_coord) + "\n")
     f.close()
                 
+                
